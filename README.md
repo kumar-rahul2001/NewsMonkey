@@ -1,4 +1,5 @@
-# Textutils
+# NewsMonkey
+#### NewsMonkey is a website which have different news categories. I created this website using React. To get the news content I use and News API
 
 ### Technologies Used
 #### `HTML` `CSS` `JavaScript` `Bootstrap` `React`
